@@ -1,0 +1,45 @@
+Robots enabled with 5g
+Upto 20gb /s 
+ 5g uses higher radio frequencies to carry information
+Utilizes multiple input and output antennas to avoid physical objcets
+2 core components i.e radio access network and the core network
+Network slicing
+Applications include remote care/surgery reliable network to carry out telesurgury safely and ethically
+How to deploy 5g
+The catch  is in using high frequency which is easily obstructed by obstances, there use of multi antt0
+Streaming high quality images
+Security
+5g/6g private networks| geographical area, group of usera/devices specifi services, specific requireemts 
+Virtual network, industrial network, enterprise networt
+Some part of the network can be public, ie
+Rdaio network – shared, public, based on enterprise(build and localised)
+Core network, transport network
+Spectrum can be dedicated
+Data traffic – localized, public via vpn firewall3
+Security  - additional requirement
+Network slicing
+Vitrualisation
+Surdical surturing and telehpical
+Digitizing sensor of touch – telehaptical, science of touch, its lets you touch ditital objects e.g buttons created mid air
+5G in Health: high quality video streaming, faster, secure and reliable, used for triaging ambulances direceting them to hospitals with appropriate resources 
+Emhanced mobile broadband, speed, data rates
+ultra low latency, connected industries, connected cars, automated cars, amount of timeit takes for information to travel from the car to the base station
+massive capacity(massive machine type communication), all devices conncetd, billion devices conncted, 5g node should handle 1m devices
+Applications of Ai/Ml 
+IoT will underpin the the convergence between 5g and AI. %g allows organisations to use more connected devices and intelligent sensors.
+IoT devices is anything than can be connected to the internet to be controlled(remotely controlled bulb) or communicate information(smart sensor) 005+
+Skin responses to frequencies of 0-500hz, modulate the ultrasonic technology
+5g is a technology for cellular communication  
+Spectrum from 24ghz to 100ghz
+Cell area is small, short rangfe but a lot of capacity in the mm wavelength
+Network slicing based on the services you are providing
+Cloud virtulisation, 
+High performance embedded IoTs conncted to the internet, splitting fusing sensor data for decision making in autonomous vehicles. 
+Adopt 5g technology in high performance embedded systems to enhance AI application in sensor fusion/ telehealth. 
+Software defined radio: is a radio communication system where the major part of its functionality is emplemented by means of software in computer, the design patgim has the advantage of producing devices that can receive and transmit widely different radio protocols.
+The paper revied the applications in the 2360-2500MHz. The application include the integration of medical devices in a communication platform for seamless interoperability and cognitive radio for body are networksand wireless sensor networks for medical environmental surveillance.
+Decide how the waveform can be changed with chanding the sdr platform
+SDR for cognitive radio that that can automatically detect available channels in the Em spectrum and accordingly change its transimission/reception parameters therefore facilating the coexistence of various various wireless communication systems
+Integration of medical devices is threatened by lack of interoperability 
+5g Network architecture
+
